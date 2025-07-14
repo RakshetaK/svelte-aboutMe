@@ -9,9 +9,9 @@
         "https://www.canva.com/design/DAGsYDRsEgE/_XaVrz0Cqxt_mdIgfIPbTw/view?utm_content=DAGsYDRsEgE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h10b2aff361"
     ];
     let images = [
-        "Screenshot\ 2025-07-14\ 071342.png",
-        "Screenshot\ 2025-07-14\ 071427.png",
-        "Screenshot\ 2025-07-14\ 085905.png"
+        "Screenshot 2025-07-14 071342.png",
+        "Screenshot 2025-07-14 071427.png",
+        "Screenshot 2025-07-14 085905.png"
     ]
     let index = -1;
     const options = {
@@ -78,7 +78,6 @@
         width: 100%;
         display: block;
         text-align: center;
-        display: block;
         z-index: -10;
     }
     .title{
